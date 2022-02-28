@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch design discovered in their late subtile declaration: laying open the falshood and deseit of their specious pretences therein. Together with the ground, rise, and progresse made, in this their present treasonable invasion of England. Written by a didligent observer of all transactions in Scotland, to his friends in England. And published to undeceive the people, seduced by their late deceitfull declaration.</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92628</idno>
+            <idno type="STC">Wing S138</idno>
+            <idno type="STC">Thomason E454_9</idno>
+            <idno type="STC">ESTC R204989</idno>
+            <idno type="EEBO-CITATION">99864435</idno>
+            <idno type="PROQUEST">99864435</idno>
+            <idno type="VID">162016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162016)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch design discovered in their late subtile declaration: laying open the falshood and deseit of their specious pretences therein. Together with the ground, rise, and progresse made, in this their present treasonable invasion of England. Written by a didligent observer of all transactions in Scotland, to his friends in England. And published to undeceive the people, seduced by their late deceitfull declaration.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 7: R.S.</note>
+                  <note>Annotation on Thomason copy: "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:162016:1" rendition="simple:additions"/>
+            <p>THE Scotch Deſign diſcovered in their late ſubtile DECLARATJON: Laying open The Falſhood and Deſeit of their ſpecious pretences therein.</p>
+            <p>Together with the ground, riſe, and progreſſe made, in this their preſent Treaſonable Invaſion of <hi>ENGLAND.</hi>
+            </p>
+            <p>Written by a diligent Obſerver of all Tranſactions in <hi>Scotland,</hi> to his Friends in <hi>England.</hi>
+            </p>
+            <p>And publiſhed to undeceive the people, ſeduced by their late Deceitfull <hi>DECLARATION.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. M.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162016:2"/>
+            <pb n="3" facs="tcp:162016:2"/>
+            <head>Penrith <hi>the</hi> 14 day of July<g ref="char:punc">▪</g> 1648.</head>
+            <opener>
+               <salute>Much honored and dear friend,</salute>
+            </opener>
+            <p>BEing preſent here, by the providence of God, at the coming of a Gentleman, one Mr <hi>Helly<g ref="char:EOLhyphen"/>burton,</hi> who is ſent from that Malignant Com<g ref="char:EOLhyphen"/>mittee of Eſtates, now ſitting in Scotland, to the heart-greif of all the people of God there; he being thus far come on his way to the Parliament of England, and from the Malignant Scots Army, by the way, with many dangerous private Letters, and a de<g ref="char:EOLhyphen"/>viliſh ſubtil falſe Declaration, which we have read, and ſome Letters to the King; all which I thought good to acquaint you with: The deep deſigns that that Malignant Crew is aiming at through that Declara<g ref="char:EOLhyphen"/>tion, which I find to be ſo full of ſubtil expreſſions, to get your Parliament to think that they are the men that they declare themſelves to be in this Declaration, and their adherents according thereto in England, and by this means to make your Parliament to conde<g ref="char:EOLhyphen"/>ſcend to their unhoneſt deſires, that is, the disbanding of your honeſt Army, and ſo the power of England ſhall be in the Malignants hands: The King being
+<pb n="4" facs="tcp:162016:3"/> brought to his royal dignities again, preſently they ſhall tread under foot all the people of God, be under what name they will, excepting Royaliſts, in all the three Kingdoms, and up with Epilcopacy: And this is for a certain their intentions, declare what they will. To aſſure you of this, my dear friend, I will ſhew ſome of the proceedings lately betwixt the State and the Kirk, before we came away, and their proceedings in the getting up of their Army, when all the Congre<g ref="char:EOLhyphen"/>gations, Presbyteries, and Seſſions, and Synods, and Shires had ſupplicated and publickly declared againſt their proceedings, with about threeſcore Members of Parliament declaring publickly againſt their procee<g ref="char:EOLhyphen"/>dings; and moſt part of the Officers of the former ſtanding Army having alſo deſerred their places out of conſcience, ſeeing the wicked courſe they were run<g ref="char:EOLhyphen"/>ning; So that I may truly ſay, the whole Kingdom, that was always for the Covenant and Presbyterial Go<g ref="char:EOLhyphen"/>vernment before, is now againſt this wicked courſe becauſe the power is only put in thoſe mens hands, both in Armies and Committees, that ever were a<g ref="char:EOLhyphen"/>gainſt the Covenant before, and againſt all Religion. The firſt thing that they went about, after the Parlia<g ref="char:EOLhyphen"/>ment was riſen, they divided their Forces, that they had ſtanding, into all the well-affected places of the Kingdom. His Excellency <hi>Hamilton</hi> did firſt begin with his own Country, for that Country was moſt diſaffected to him and his ways; he could not get up a man; he ſent (to gain his point) ſo many Troops of Horſe to force the men, but all could not prevail; the people were exceeding reſolute, they entertained the
+<pb n="5" facs="tcp:162016:3"/> Troops as long as they had any thing, and at laſt left all; ſo that he hath deſtroyed all his own Country, <hi>Glaſcoe,</hi> which was the chief Town of his Country, the Town being wholy eſtabliſht with godly Magi<g ref="char:EOLhyphen"/>ſtrates, after the caſting out of their Malignant Ma<g ref="char:EOLhyphen"/>giſtrates, in that time that <hi>Iames Graime</hi> F. <hi>oſ Montreſſe</hi> had over run the Land; he hath now caſt out theſe godly men, and ſet up thoſe Malignants that were caſt out before, and did impriſon and plunder all the godly Families in the Town, the Miniſters themſelves hard<g ref="char:EOLhyphen"/>ly eſcaping the fury of the Souldiers, their houſes plundered alſo: They came in to a godly woman, hearing that ſhe feared God, and did threaten to kill her, if ſhe would not ſwear that ſhe did not fear God; this is of truth: Theſe and ſuch like are only the cheif men that are imployed in this ingagement willingly, albeit the moſt part be forced, poor creatures: Ano<g ref="char:EOLhyphen"/>ther paſſage remarkable, to ſhew that theſe men minde not Presbyterial Government, nor no good to any that are not profeſt Royaliſts, and upon any termes for the King, in all the three Kingdomes; and to ſhew you the irreconcileable difference betwixt this <hi>MALIGNANT STATE</hi> that now is acting, the affairs of the civil power in <hi>Scotland</hi> and the Kirk, and the moſt part beſides both of the nobility, Gentry and Comminalty: The paſſage was this, the Commiſſi<g ref="char:EOLhyphen"/>oners of the Kirk did make an Act, That whatſoever Miniſter ſhould be found not to preach againſt the proceedings of that ingagement, and ſhould be found to go into <hi>England</hi> with that Army, ſhould be depo<g ref="char:EOLhyphen"/>ſed from the Miniſtry: the Parliament hereing of it,
+<pb n="6" facs="tcp:162016:4"/> did make a contrary Act in their firſt Declaration; alſo they did declare, That their coming to <hi>England</hi> was againſt Malignants, as wel on the one ſide, as Se<g ref="char:EOLhyphen"/>ctaries on the other ſide. The Commiſſioners of the Kirk ſet forth a contrary, proving, that they were joyn<g ref="char:EOLhyphen"/>ed with Malignants in <hi>England,</hi> both in the South parts and North parts, and that the Engliſh Malig<g ref="char:EOLhyphen"/>nants did nothing without order from particular Ma<g ref="char:EOLhyphen"/>lignant Stateſmen in <hi>Scotland;</hi> all which truths do now plainly appear, we hope, to the open view of the world, ſo that I may perſwade you, and I could wiſh that ye would uſe means to perſwade all others of the truth of theſe things, and that they may not be deluded with that Declaration, which we know is come out in ſecret, without the knowledg of the wel-affected par<g ref="char:EOLhyphen"/>ty in that Kingdom, otherwiſe it would have had a contrary Declaration from them, proving theirs to be falſe in every circumſtance.</p>
+            <p>Dear friend, the reaſon I am ſo large in theſe parti<g ref="char:EOLhyphen"/>culars is this, knowing that the well-affected party in <hi>Scotland</hi> do not get their Letters conveyed to you, for fear of intercepting, which ſome are ſuffering for at this time.</p>
+            <p>And my next reaſon &amp; motive, that moves me, is this; I know that you are a man that are acquainted with many Parl. Members with you, that ye may beſtir your ſelf a little to make known theſe things, and to ſpread them abroad for the undeceiving of many thouſands, both in <hi>London</hi> and up and down this Kingdom, who, I know, do appear with them, thinking that they are for the proſecuting of the ends of the Covenant,
+<pb n="7" facs="tcp:162016:4"/> and eſtabliſhing of Presbyterial Government, and the bringing of the King to his Throne upon good condi<g ref="char:EOLhyphen"/>tions; but they will be infinitely deceived, think ſo who will: Theſe indeed were the ends that the well<g ref="char:EOLhyphen"/>affected party would have had an Army up for; but Malignants bearing down, being expreſſed, did cauſe the Malignants to thruſt in themſelves under this co<g ref="char:EOLhyphen"/>vert, and they have played their parts very ſubtilly; but God hath made their deſigns to ſhine through their covert, to their great ſhames and ſilence.</p>
+            <p>I pray you acquaint our friends with theſe things, for I know we have ſome in the City Councel, and may do much good; there is much lying upon your Parliament, the Lord make them ſee about them; and we have reaſon to mourn for the diviſions of the people of God, and for the want of a right underſtand<g ref="char:EOLhyphen"/>ing betwixt them in both Kingdoms, be under what name ſoever. I wiſh there were a Union endevoured quickly, for all the wicked are combined together to root out all that bear the Image of God in them, in their profeſſion; theſe are the main deſigns theſe old Malignants aim at; the old quarrel is the quarrel ſtill, both againſt Independents and Presbyterians, un<g ref="char:EOLhyphen"/>der what name ſoever, that ſhall not be found to be al<g ref="char:EOLhyphen"/>together for the King upon any terms. Not troubling you any further; I ſhall reſt here, laying this over up<g ref="char:EOLhyphen"/>on you, that you wil not fail to beſtir your ſelf in theſe things, to your power in the ſtrength of God, who is your ſtrength, and the ſtrength of him, who is</p>
+            <closer>
+               <signed>Your affectionate Friend in the LORD R. S.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:162016:5"/>
+            <p>I pray you enquire for an honeſt Gentleman, Lieu<g ref="char:EOLhyphen"/>tenant Collonel <hi>William O sbourne,</hi> who is come along to the Parliament by the order of the General Major <hi>Lambert,</hi> with the Papers and Declarations of that Malignant Committee in <hi>Scotland,</hi> he will ſhew you of all things to your ſatisfaction, for he came with us from <hi>Scotland,</hi> make him acquainted with ſome of your Parliament Members, that he may im<g ref="char:EOLhyphen"/>part what he knoweth of affairs, both in this Kingdom and in <hi>Scotland.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur <hi>Gilb. Mabbot.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>July 24. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
